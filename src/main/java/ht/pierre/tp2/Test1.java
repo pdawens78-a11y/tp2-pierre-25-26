@@ -21,7 +21,7 @@ public class Test1 {
                 .temperature(0.7)
                 .build();
 
-        // Question simple
+        // test simple
         String response1 = model.chat("Bonjour !");
         System.out.println("Q1: Bonjour !");
         System.out.println("R1: " + response1);
