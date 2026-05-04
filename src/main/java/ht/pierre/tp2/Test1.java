@@ -39,5 +39,9 @@ public class Test1 {
         String response4 = model.chat("Quel est mon nom ?");
         System.out.println("\nQ4: Quel est mon nom ?");
         System.out.println("R4: " + response4);
+
+        String response5 = model.chat("Comment s'appelle le chat de Pierre ?");
+        System.out.println("\nQ5: Comment s'appelle le chat de Pierre ?");
+        System.out.println("R5: " + response5);
     }
 }
