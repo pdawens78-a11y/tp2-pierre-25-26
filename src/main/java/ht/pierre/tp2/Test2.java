@@ -30,7 +30,7 @@ public class Test2 {
         // =========================
         // Question (même que Test1)
         // =========================
-        String question = "Bonjour, comment ça va ?";
+        String question = "Je dois partir dans 2 jours à Paris. Est-ce que je dois mettre un parapluie dans mes valises ?";
 
         // =========================
         // Appel avec ChatResponse
